@@ -1,2 +1,2 @@
-# UIUC CS 440
+# UIUC MPs and Labs
 Projects from class
